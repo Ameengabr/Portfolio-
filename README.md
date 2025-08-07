@@ -27,7 +27,7 @@
 ## 📊 Projects
 
 ### 🔹 Integrating Machine Learning & Gurobi for Wastewater Aeration Optimization  
-[GitHub](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Model_predictions_analysis_comapred_to_benchmark.ipynb)  
+[Project-GitHub-Notebook](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Model_predictions_analysis_comapred_to_benchmark.ipynb)  
 - Reduced aeration energy vs mixing by **67%**  
 - Benchmarked cost-efficiency with scenario simulations  
 - _Tools: Python, pandas, seaborn, optimization, modeling_
@@ -35,7 +35,7 @@
 ---
 
 ### 🔹 Statistical Analysis of Air Quality (A/B Testing)  
-[GitHub](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Statistical%20Data%20Analysis%20Project/AB%20Testing%2C%20Sampling%2C%20Probability%20Distribution%2C%20and%20Confidence%20Levels%20analyses%20%20on%20air%20quality%20with%20respect%20to%20carbon%20monoxide%2C%20a%20major%20air%20pollutant..ipynb)  
+[Project-GitHub-Notebook](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Statistical%20Data%20Analysis%20Project/AB%20Testing%2C%20Sampling%2C%20Probability%20Distribution%2C%20and%20Confidence%20Levels%20analyses%20%20on%20air%20quality%20with%20respect%20to%20carbon%20monoxide%2C%20a%20major%20air%20pollutant..ipynb)  
 - Analyzed AQI data from 200+ sites, identified pollution outliers  
 - Used statistical tests to support policy formulation  
 - _Skills: A/B testing, hypothesis testing, scipy.stats_
@@ -43,7 +43,7 @@
 ---
 
 ### 🔹 NYC Taxi Ride Business Case  
-[GitHub](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Statistical%20Data%20Analysis%20Project/Automatidata%20is%20consulting%20for%20the%20New%20York%20City%20Taxi%20and%20Limousine%20Commission%20(TLC).%20-%20Analysis.ipynb)  
+[Project-GitHub-Notebook](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Statistical%20Data%20Analysis%20Project/Automatidata%20is%20consulting%20for%20the%20New%20York%20City%20Taxi%20and%20Limousine%20Commission%20(TLC).%20-%20Analysis.ipynb)  
 - Analyzed 22K+ rides, discovered peak day revenues up to $57K  
 - Found trends in tips ($2.73 avg.) and ride distances  
 - _Skills: pandas, plotly, EDA, correlation_
@@ -51,7 +51,7 @@
 ---
 
 ### 🔹 Optimization of Production Distribution  
-[GitHub](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Optimization/Optimization_Production_distribution_optimization.ipynb)  
+[Project-GitHub-Notebook](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Optimization/Optimization_Production_distribution_optimization.ipynb)  
 - Reduced transport cost from 1704.89 to 1651.02 with capacity planning  
 - Built supply chain optimization model  
 - _Tools: Linear programming, NumPy, logistics modeling_
@@ -59,7 +59,7 @@
 ---
 
 ### 🔹 Solar Energy Forecast & Optimization  
-[GitHub](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Optimization/Optimizing%20Solar%20Energy%20Use%20with%20Forecasting%20%26%20Gurobi.ipynb)  
+[Project-GitHub-Notebook](https://github.com/Ameengabr/Data_Analysis_Projects/blob/main/Optimization/Optimizing%20Solar%20Energy%20Use%20with%20Forecasting%20%26%20Gurobi.ipynb)  
 - Cut grid purchases by **4,775.52 kW** saving **$6,838.07**  
 - Optimized deployment of batteries and solar energy  
 - _Skills: Time-series, forecasting, Gurobi, energy modeling_
